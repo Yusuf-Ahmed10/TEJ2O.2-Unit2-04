@@ -2,7 +2,7 @@
  *
  * Created by: Yusuf Ahmed
  * Created on: Feb 2026
- * This program ...
+ * This program tells the temperature
 */
 
 
